@@ -5,14 +5,13 @@
 }
 .axis text {
     font-family: 'Arial';
-    font-size: 13px;
+    font-size: 12px;
 }
 .bar {
     fill: FireBrick;
 }
 #wrapper {
     display: block;
-    position: relative;
     margin: 30px 40px;
     border: 3px solid blue;
 }
